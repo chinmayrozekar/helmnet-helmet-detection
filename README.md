@@ -46,7 +46,7 @@ Non-compliance with PPE (personal protective equipment) requirements causes prev
 Python · TensorFlow/Keras · NumPy · OpenCV · Matplotlib · Scikit-learn · Jupyter Notebook
 
 ## Code
-Notebook: [`Project_6_ChinmayRozekar_HelmNet_Full_Code.ipynb`](Project_6_ChinmayRozekar_HelmNet_Full_Code.ipynb)
+Notebook: [`HelmNet_Helmet_Detection.ipynb`](HelmNet_Helmet_Detection.ipynb)
 
 ---
 *Author: Chinmay Rozekar*
